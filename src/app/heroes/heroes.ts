@@ -8,6 +8,7 @@ import { Hero } from '../hero';
   templateUrl: './heroes.html',
   styleUrl: './heroes.css',
 })
+
 export class Heroes {
   heroes = HEROES;
 
